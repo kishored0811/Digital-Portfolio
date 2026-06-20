@@ -1,0 +1,32 @@
+.resume {
+  background: #111111;
+  color: white;
+  padding: 100px 10%;
+  text-align: center;
+}
+
+.resume-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.resume h2 {
+  font-size: 3rem;
+  color: #00E5FF;
+  margin-bottom: 20px;
+}
+
+.resume p {
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+.resume-btn {
+  display: inline-block;
+  padding: 14px 30px;
+  background: linear-gradient(45deg, #00E5FF, #7B61FF);
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: bold;
+}

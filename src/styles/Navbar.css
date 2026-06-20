@@ -1,0 +1,59 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 20px 8%;
+
+  background: rgba(10, 10, 10, 0.8);
+  backdrop-filter: blur(10px);
+
+  z-index: 1000;
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #00E5FF;
+  cursor: pointer;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.nav-links a:hover {
+  color: #00E5FF;
+}
+
+.hire-btn {
+  padding: 10px 20px;
+
+  border: none;
+  border-radius: 30px;
+
+  background: linear-gradient(
+    45deg,
+    #00E5FF,
+    #7B61FF
+  );
+
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
