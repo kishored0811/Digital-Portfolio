@@ -14,7 +14,7 @@ function About() {
         <h2>About Me</h2>
 
         <p>
-          I am D. Kishore, a B.Sc Computer Science student and an
+          I am Kishore  D, a B.Sc Computer Science student and an
           aspiring Full Stack Developer. I am passionate about building
           modern web applications and continuously learning new
           technologies.

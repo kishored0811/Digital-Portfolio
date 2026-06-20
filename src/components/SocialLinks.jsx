@@ -40,7 +40,7 @@ function SocialLinks() {
           </a>
 
           <a
-            href="https://instagram.com/kishored0811"
+            href="https://instagram.com/_kishore._.offl_08"
             target="_blank"
             rel="noreferrer"
           >

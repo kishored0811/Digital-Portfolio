@@ -19,9 +19,9 @@ function Contact() {
         </p>
 
         <div className="contact-info">
-          <p>📧 yourmail@gmail.com</p>
+          <p>📧 kishore.d0811@gmail.com</p>
           <p>📍 Chennai, Tamil Nadu, India</p>
-          <p>📱 +91 XXXXX XXXXX</p>
+          <p>📱 +91 96002 79035</p>
         </div>
 
         <form className="contact-form">

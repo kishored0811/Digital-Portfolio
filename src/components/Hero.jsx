@@ -24,7 +24,7 @@ function Hero() {
         >
           <h3>Hello, I'm</h3>
 
-          <h1>D. Kishore</h1>
+          <h1>Kishore D</h1>
 
           <h2>Aspiring Full Stack Developer</h2>
 
